@@ -11,7 +11,7 @@
 2. 使用 nose 执行单元测试
 安装 nose 后，在项目 tests 目录执行 `nosetests` 命令执行
 
-
+`nosetests -v` 显示执行过程
 
 
 
